@@ -13,9 +13,9 @@ public class FreshJuiceTest {
 		juice.size2 = FreshJuice.FreshJuiceSize.MEDIUM ;
 		juice.size3 = FreshJuice.FreshJuiceSize.LARGE ;
 	    
-		System.out.println("Size: " + juice.size1);
-		System.out.println("Size: " + juice.size2);
-		System.out.println("Size: " + juice.size3);
+		System.out.println("Size1: " + juice.size1);
+		System.out.println("Size2: " + juice.size2);
+		System.out.println("Size3: " + juice.size3);
 
 	}
 
